@@ -3,9 +3,10 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazsitz&hide=&theme=catppuccin_latte)
 
 - 🔭 I’m currently working on a children webpage, soon to be published the initial version 🤞
-- 🎉 Just about to publish my first python package. [@mapPy](https://github.com/PazsitZ/mappy-json-object-mapper) -> https://pypi.org/project/mappy-json-object-mapper
+- 🎉 Just published my first python package. [@mapPy](https://github.com/PazsitZ/mappy-json-object-mapper) -> https://pypi.org/project/mappy-json-object-mapper
 - 🌱 Also currently learning LLM related stuff
-  - setting up and testing various local LLM's
+  - testing various local LLM's
+  - quantizing LLMs -> planning to release some library-tools for this process! 
   - experiment with RAG's
   - and all the exciting stuff... 😄
 
