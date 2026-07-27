@@ -2,14 +2,15 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazsitz&hide=&theme=catppuccin_latte)
 
-- ✨ Released a Structured, multi-agent development pipeline - [Forge](https://github.com/PazsitZ/forge)
+- ✨ Just released a set of AI Skills to help the Agent in Design Pattern selection and following SOLID principles [Skills](https://github.com/PazsitZ/skills)
+- ⚡ Check out my Structured, multi-agent development pipeline - [Forge](https://github.com/PazsitZ/forge)
 - 🔭 I’m currently working on a children webpage, soon to be published the initial version 🤞
 - 💸 Released some Financial Calculations scripts regarding trading, and probably coming up with more 👉 [Fin-Calc](https://github.com/PazsitZ/fin-calc)
 - 🎉 Just published my first python package. [@mapPy](https://github.com/PazsitZ/mappy-json-object-mapper) -> https://pypi.org/project/mappy-json-object-mapper
 - 🌱 Also currently learning LLM related stuff
   - testing various local LLM's
   - quantizing LLMs -> planning to release some library-tools for this process! 
-  - experiment with RAG's
+  - working on RAG's: research, implement and fine tune with AutoResearch
   - and all the exciting stuff... 😄
 
 <!--
